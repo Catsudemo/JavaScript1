@@ -12,7 +12,7 @@ Topics discussed in class this week:
 
 ## Before you start with the homework:
 
-1. Review the [Git course material](https://github.com/HackYourFuture/Git) of last week.
+1. Review the [Git course material](https://github.com/FooCoding/Git) of last week.
 2. Watch: [What is programming](https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro), just watch the 2 min video, you do not have to do the entire JavaScript course (It could be useful later on though).
 3. Please watch the following parts of the course, [Programming Foundations Fundamentals](https://www.lynda.com/Programming-Foundations-tutorials/Welcome/83603/90426-4.html) on Lynda.com (if you don't have access to Lynda yet ask Gijs):
    <br>**0. Introduction**
@@ -93,7 +93,7 @@ console.log("the value of my string will be: whateverYouThinkItWillLog");
 5\.6 `console.log` the highest value.
 
 6\. _Arrays_  
-6\.1 Declare an empty array. Make sure that the name you choose indicates 'plurality', because an array is capable of containing more than one element. (See [Naming conventions](https://github.com/HackYourFuture/fundamentals/blob/master/fundamentals/naming_conventions.md)).  
+6\.1 Declare an empty array. Make sure that the name you choose indicates 'plurality', because an array is capable of containing more than one element. (See [Naming conventions](https://github.com/FooCoding/fundamentals/blob/master/fundamentals/naming_conventions.md)).  
 6\.2 Write a `console.log` statement that explains in words what you think the value of the array is.  
 6\.3 `console.log` your array.  
 6\.4 Create an array that has your favorite animals inside (see if you can find a good name that exactly describes what this variable will hold).  

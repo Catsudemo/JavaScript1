@@ -1,7 +1,7 @@
 > Please help us improve and share your feedback! If you find better tutorials
-or links, please share them by [opening a pull request](https://github.com/HackYourFuture/JavaScript1/pulls).
+or links, please share them by [opening a pull request](https://github.com/FooCoding/JavaScript1/pulls).
 
-# HackYourFuture - JavaScript 1
+# JavaScript 1
 
 Here you can find course content and homework for the JavaScript 1 module
 
@@ -18,5 +18,5 @@ We expect you to __always__ come prepared to the class on Sunday.
 ### Overall
 A good understanding of all the above mentioned topics. Want to check your Knowledge? Go through the [JavaScript Fundamentals README](../../../fundamentals/blob/master/README.md) and research/ ask for help (Slack!) with the concepts that are not entirely clear.
 
-
-*The HackYourFuture curriculum is subject to CC BY copyright. This means you can freely use our materials, but just make sure to give us credit for it :)*
+---
+Credit goes to [HackYourFuture](https://github.com/HackYourFuture) which this is based upon.
