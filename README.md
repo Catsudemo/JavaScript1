@@ -19,4 +19,4 @@ We expect you to __always__ come prepared to the class on Sunday.
 A good understanding of all the above mentioned topics. Want to check your Knowledge? Go through the [JavaScript Fundamentals README](../../../fundamentals/blob/master/README.md) and research/ ask for help (Slack!) with the concepts that are not entirely clear.
 
 ---
-Credit goes to [HackYourFuture](https://github.com/HackYourFuture) which this is based upon.
+Credit goes to [HackYourFuture](https://github.com/HackYourFuture), which this is based upon
