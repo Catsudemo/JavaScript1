@@ -30,3 +30,15 @@ Pair up with another student in your class. The homework requires two people to 
 7. user commits and pushes his branch to remote.
 8. user creates a pull request(PR) to merge changes from user's _user-dev_  branch to admin's _master_ branch.
 9. admin reviews the pull request and approves and merges changes.
+
+## Step 3: **Some freeCodeCamp challenges (10 hours):**
+
+_Deadline Saturday_
+
+On freeCodeCamp.com please do the [Basic JavaScript](https://www.freecodecamp.com/challenges/learn-how-free-code-camp-works) exercises up and until the **"Shopping List"** exercise (there are some topics we did not cover but you can do it).
+
+## Step 4: Read before next lecture
+
+_Deadline Sunday morning_
+
+Go trough the reading material in the [README.md](/Week2/README.md) to prepare for your next class

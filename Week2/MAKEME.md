@@ -143,13 +143,7 @@ if (...) {
 10\.2 Can you compare infinities? (Not in Eyad's world) - does 6/0 === 10/0? How can you test this?  
 10\.3 Add `console.log` statements to the above program in which you show that you understand the concepts (just like you've done in the above assignments).
 
-## Step 3: **Some freeCodeCamp challenges (10 hours):**
-
-_Deadline Saturday_
-
-On freeCodeCamp.com please do the [Basic JavaScript](https://www.freecodecamp.com/challenges/learn-how-free-code-camp-works) exercises up and until the **"Shopping List"** exercise (there are some topics we did not cover but you can do it).
-
-## Step 4: Read before next lecture
+## Step 3: Read before next lecture
 
 _Deadline Sunday morning_
 
